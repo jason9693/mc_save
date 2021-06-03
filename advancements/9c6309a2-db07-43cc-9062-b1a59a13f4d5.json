@@ -91,6 +91,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-15 19:38:06 +0900"
@@ -282,6 +288,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/cyan_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-15 19:38:06 +0900"
@@ -348,6 +360,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-05-31 21:37:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/dispenser": {
     "criteria": {
       "has_bow": "2019-05-15 19:38:06 +0900"
@@ -405,8 +423,10 @@
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
       "cooked_porkchop": "2021-04-29 21:32:11 +0900",
+      "chicken": "2021-05-31 20:25:07 +0900",
       "cooked_mutton": "2021-05-19 16:22:59 +0900",
       "apple": "2019-05-16 19:57:28 +0900",
+      "pumpkin_pie": "2021-05-31 22:17:32 +0900",
       "bread": "2021-04-29 21:43:22 +0900",
       "rotten_flesh": "2019-05-15 19:51:24 +0900",
       "cooked_chicken": "2019-06-10 23:08:33 +0900",
@@ -429,6 +449,12 @@
   "minecraft:recipes/combat/shield": {
     "criteria": {
       "has_iron_ingot": "2021-04-25 18:09:43 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab_from_smooth_sandstone_stonecutting": {
+    "criteria": {
+      "has_smooth_sandstone": "2021-05-31 21:37:21 +0900"
     },
     "done": true
   },
@@ -519,6 +545,12 @@
   "minecraft:recipes/decorations/white_banner": {
     "criteria": {
       "has_white_wool": "2019-06-12 00:47:56 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
     },
     "done": true
   },
@@ -798,6 +830,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/wooden_pickaxe": {
     "criteria": {
       "has_stick": "2019-05-15 19:38:06 +0900"
@@ -1010,6 +1048,7 @@
       "minecraft:skeleton": "2021-04-29 21:27:29 +0900",
       "minecraft:spider": "2021-04-29 21:21:25 +0900",
       "minecraft:creeper": "2021-04-25 17:54:36 +0900",
+      "minecraft:enderman": "2021-05-31 20:34:56 +0900",
       "minecraft:zombie": "2021-04-25 17:53:51 +0900"
     },
     "done": false
@@ -1062,9 +1101,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_stairs": {
+    "criteria": {
+      "has_smooth_sandstone": "2021-05-31 21:37:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/fletching_table": {
     "criteria": {
       "has_flint": "2019-05-15 19:38:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
     },
     "done": true
   },
@@ -1110,6 +1161,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget_from_smelting": {
     "criteria": {
       "has_iron_pickaxe": "2019-05-15 19:38:06 +0900",
@@ -1120,6 +1177,12 @@
   "minecraft:recipes/food/cooked_mutton_from_smoking": {
     "criteria": {
       "has_mutton": "2021-05-17 21:48:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
     },
     "done": true
   },
@@ -1201,6 +1264,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/oak_boat": {
     "criteria": {
       "in_water": "2019-06-10 23:53:04 +0900"
@@ -1210,6 +1279,12 @@
   "minecraft:recipes/food/cooked_cod_from_campfire_cooking": {
     "criteria": {
       "has_cod": "2021-05-30 23:10:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gold_ingot_from_gold_block": {
+    "criteria": {
+      "has_gold_block": "2021-06-03 03:10:53 +0900"
     },
     "done": true
   },
@@ -1266,6 +1341,12 @@
   "minecraft:recipes/decorations/blue_stained_glass_pane": {
     "criteria": {
       "has_glass": "2019-05-15 19:38:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
     },
     "done": true
   },
@@ -1374,6 +1455,12 @@
   "minecraft:nether/find_fortress": {
     "criteria": {
       "fortress": "2019-06-12 01:36:54 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
     },
     "done": true
   },
@@ -1614,6 +1701,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2019-05-15 19:38:06 +0900",
@@ -1755,6 +1848,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_sandstone_slab": {
+    "criteria": {
+      "has_smooth_sandstone": "2021-05-31 21:37:21 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/leather_chestplate": {
     "criteria": {
       "has_leather": "2019-06-12 01:25:05 +0900"
@@ -1821,6 +1920,7 @@
       "minecraft:mountains": "2021-05-17 21:43:37 +0900",
       "minecraft:taiga": "2019-05-15 19:42:07 +0900",
       "minecraft:desert_hills": "2021-05-17 21:49:23 +0900",
+      "minecraft:taiga_hills": "2021-06-01 02:16:27 +0900",
       "minecraft:desert": "2021-05-17 21:48:59 +0900",
       "minecraft:jungle": "2019-06-12 00:15:56 +0900",
       "minecraft:jungle_hills": "2019-06-12 00:16:02 +0900",
@@ -1918,6 +2018,12 @@
   "minecraft:recipes/combat/leather_boots": {
     "criteria": {
       "has_leather": "2019-06-12 01:25:05 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
     },
     "done": true
   },
@@ -2041,6 +2147,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
       "has_planks": "2019-05-15 19:55:40 +0900"
@@ -2074,6 +2186,18 @@
   "minecraft:recipes/redstone/spruce_trapdoor": {
     "criteria": {
       "has_planks": "2019-05-17 00:52:02 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
     },
     "done": true
   },
@@ -2116,6 +2240,12 @@
   "minecraft:recipes/decorations/andesite_wall": {
     "criteria": {
       "has_andesite": "2021-05-17 21:45:36 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2021-05-31 21:39:17 +0900"
     },
     "done": true
   },
