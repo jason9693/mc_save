@@ -304,6 +304,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-07-23 19:56:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/flower_banner_pattern": {
     "criteria": {
       "has_oxeye_daisy": "2021-07-15 23:55:22 +0900"
@@ -409,6 +415,12 @@
   "minecraft:recipes/building_blocks/coarse_dirt": {
     "criteria": {
       "has_gravel": "2019-05-15 19:38:06 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-07-23 19:56:05 +0900"
     },
     "done": true
   },
@@ -1146,6 +1158,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_salmon_from_smoking": {
+    "criteria": {
+      "has_salmon": "2021-07-20 02:22:39 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/deepslate_tile_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2021-07-12 00:25:20 +0900"
@@ -1798,6 +1816,12 @@
     },
     "done": true
   },
+  "minecraft:husbandry/fishy_business": {
+    "criteria": {
+      "cod": "2021-07-20 02:20:35 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
     "criteria": {
       "has_white_dye": "2021-07-13 09:08:25 +0900"
@@ -2355,6 +2379,7 @@
       "cooked_mutton": "2021-05-19 16:22:59 +0900",
       "cooked_beef": "2021-06-04 02:52:48 +0900",
       "apple": "2019-05-16 19:57:28 +0900",
+      "cooked_cod": "2021-07-21 11:51:25 +0900",
       "poisonous_potato": "2021-06-09 04:26:37 +0900",
       "pumpkin_pie": "2021-05-31 22:17:32 +0900",
       "bread": "2021-04-29 21:43:22 +0900",
@@ -2523,6 +2548,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-07-23 19:56:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/leather_horse_armor": {
     "criteria": {
       "has_leather": "2019-06-12 01:25:05 +0900"
@@ -2562,6 +2593,12 @@
   "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
     "criteria": {
       "has_rose_red": "2021-07-12 21:10:47 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-07-23 19:56:05 +0900"
     },
     "done": true
   },
@@ -2836,6 +2873,12 @@
   "minecraft:recipes/building_blocks/polished_blackstone": {
     "criteria": {
       "has_blackstone": "2021-07-06 18:56:57 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon_from_campfire_cooking": {
+    "criteria": {
+      "has_salmon": "2021-07-20 02:22:39 +0900"
     },
     "done": true
   },
@@ -3340,6 +3383,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-07-23 19:56:05 +0900"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/cyan_stained_glass": {
     "criteria": {
       "has_glass": "2019-05-15 19:38:06 +0900"
@@ -3445,6 +3494,12 @@
   "minecraft:recipes/building_blocks/oak_wood": {
     "criteria": {
       "has_log": "2019-05-15 19:44:14 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_salmon": {
+    "criteria": {
+      "has_salmon": "2021-07-20 02:22:39 +0900"
     },
     "done": true
   },
@@ -3943,6 +3998,12 @@
   "minecraft:recipes/building_blocks/melon": {
     "criteria": {
       "has_melon": "2021-06-27 19:51:58 +0900"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2021-07-23 19:56:05 +0900"
     },
     "done": true
   },
